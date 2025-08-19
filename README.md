@@ -6,7 +6,8 @@
 
 
 
-THIS IS MY PROFES
+THERE ARE SOME INFO ABOUT ME-- (☞ﾟヮﾟ)☞
+
 #### ✧ Data Science Student @ **IIT Madras**  
 - ✧ Specializing in **Machine Learning, Web Development, and Data Engineering**  
 - ✧ Kaggle Competitor | Python Specialist | Aspiring Data Scientist  
