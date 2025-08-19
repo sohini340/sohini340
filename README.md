@@ -5,7 +5,6 @@
 </pre>
 
 
-
 ##### HERE ARE SOME INFO ABOUT ME-- (≧◡≦) ♡
 
 ###### I am currently a data science student @ **IIT Madras**. Learning about Machine Learning and Web Development while sharpening my skills through Kaggle competitions. Always exploring, always learning—turning data into insights, one model at a time! (•̀ᴗ•́ )و ̑̑ 
